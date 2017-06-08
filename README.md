@@ -1,2 +1,2 @@
-# Table
-Blake Tamayo Table Challenge
+# BlakeTamayo-Table
+Blake-Table
